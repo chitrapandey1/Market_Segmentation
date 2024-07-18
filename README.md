@@ -51,11 +51,12 @@
 
 2. Exploratory Data Analysis
    
-3. Model Development: Standarisation + Principal Component Analysis + KMeans Clustering
+3. Model Development: Standardization + Principal Component Analysis + KMeans Clustering
    
-4. Analysing the output from model: Silhouette score, Voronoi diagram
+4. Analysing the output from the model: Pairplot, Countplot, Silhouette score, Voronoi diagram, Decision Tree Algorithm
 
 
 
 **_Output_**:
+
 We achieve 93% accuracy in predicting potential new customer's behavior.
